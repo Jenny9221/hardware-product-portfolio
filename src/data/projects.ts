@@ -50,9 +50,9 @@ export const projects: Project[] = [
     gallery: ["/images/projects/p03-smart-kitchen/portfolio_1-6_03.jpg", "/images/projects/p03-smart-kitchen/portfolio_1-6_04.jpg", "/images/projects/p03-smart-kitchen/portfolio_1-6_05.jpg", "/images/projects/p03-smart-kitchen/portfolio_1-6_06.jpg"],
     index: "03", title: "净界厨联\n开放式厨房烹饪智能助手", shortTitle: "净界厨联",
     tags: ["智能家居", "系统产品设计", "硬件方案"],
-    summary: "针对开放式厨房的空气管理需求，规划新风、环境感知与安全提醒之间的产品系统关系。",
+    summary: "让烹饪更专注，让厨房更智能。",
     year: "2024.05", role: "产品设计",
-    challenge: "开放式厨房的空气流通和安全需求彼此关联。\n探索如何通过多设备协同构成完整的厨房体验。",
+    challenge: "从烹饪过程中查看菜谱、管理食材与操作设备的真实痛点出发，\n探索以用户体验为中心的智能厨房交互中枢。",
     approach: [], outputs: [], accent: "amber",
   },
   {
