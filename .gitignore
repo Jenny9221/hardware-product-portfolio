@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.open-next/
+out/
+work/
+outputs/
+output/
+tmp/
+public/images/*.pdf
+.env*
+!.env.example
+*.log
